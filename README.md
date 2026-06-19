@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi, I'm Steve Cavolick 👋
+# Steve Cavolick
 
-<!--
-**scavolick/scavolick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Solution Architect, blogger, AI & Automation. I work for a systems integrator helping 
+companies do more with their data — increase sales, reduce risk, cut operational waste. 
+The work I find most satisfying is when a client can do something they flat-out 
+couldn't do before.
 
-Here are some ideas to get you started:
+I'm a figure-it-out-first person. Not afraid to ask for help, but I'll read the 
+manual first.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm building lately
+
+I build skills in Claude Cowork to make my day job faster and sharper: deep account 
+plans, meeting briefs, prospecting research, product battlecards. On the personal 
+side: a vacation planner, a stock market sector rotation dashboard, and a fantasy 
+football draft assistant I use to defend my Diamond ranking on Yahoo.
+
+---
+
+## Outside the office
+
+Obstacle course racing. Science fiction. Family above all of it.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/YOUR-URL)
+
+## About Me
+
+I've spent 25+ years helping organizations turn data into measurable business outcomes. 
+These days, my focus is squarely on **enterprise AI and agentic automation** — figuring 
+out not just what AI *can* do, but how organizations can adopt it thoughtfully and 
+responsibly.
+
+I write about the intersection of technology, strategy, and the very human questions 
+that AI keeps raising. When I'm not architecting solutions, I'm probably reading about 
+something AI-adjacent and wondering how it changes the rules.
+
+
+
+
+
+
