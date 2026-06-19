@@ -20,6 +20,12 @@ football draft assistant I use to defend my Diamond ranking on Yahoo.
 
 ---
 
+## Latest Thinking
+
+I blog about AI, data strategy, and the business of technology.  
+📝 [Is AI Helping or Harming My Creative Process?](https://lnkd.in/gg8BuneN)  
+📝 [When The Algorithm Shrinks The Strike Zone](https://lnkd.in/gJ_6ZW7Z)
+
 ## Outside the office
 
 Obstacle course racing. Science fiction. Family above all of it.
