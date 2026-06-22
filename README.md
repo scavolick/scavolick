@@ -2,7 +2,7 @@
 # Steve Cavolick
 
 Senior Solution Architect, blogger, AI & Automation. I work for a systems integrator helping 
-companies do more with their data — increase sales, reduce risk, cut operational waste. 
+companies do more with their data - increase sales, reduce risk, cut operational waste. 
 The work I find most satisfying is when a client can do something they flat-out 
 couldn't do before.
 
@@ -28,7 +28,7 @@ I blog about AI, data strategy, and the business of technology.
 
 ## Outside the office
 
-Obstacle course racing. Science fiction. Family above all of it.
+Obstacle course racing. Science fiction. EDM. Family above all of it.
 
 ---
 
@@ -39,7 +39,7 @@ Obstacle course racing. Science fiction. Family above all of it.
 ## About Me
 
 I've spent 25+ years helping organizations turn data into measurable business outcomes. 
-These days, my focus is squarely on **enterprise AI and agentic automation** — figuring 
+These days, my focus is squarely on **enterprise AI and agentic automation** - figuring 
 out not just what AI *can* do, but how organizations can adopt it thoughtfully and 
 responsibly.
 
